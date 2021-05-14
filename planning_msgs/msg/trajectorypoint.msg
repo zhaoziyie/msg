@@ -1,0 +1,15 @@
+float64 xg
+float64 yg
+float64 zg
+float64 x
+float64 y
+float64 z
+float64 heading_global
+float64 heading
+float64 v
+float64 t
+float64 a
+float64 k
+float64 r
+float64 s
+int64 type
